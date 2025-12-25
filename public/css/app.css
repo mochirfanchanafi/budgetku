@@ -1,0 +1,12 @@
+.select2-container--default .select2-selection__rendered {
+    font-size: 0.75rem; /* Adjust as needed */
+}
+.select2-results__options {
+    font-size: 0.75rem; /* Adjust as needed */
+}
+.invalid-feedback {
+    font-size: 0.75rem;
+}
+.btn-block {
+    width: 100%;
+}
